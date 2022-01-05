@@ -1,4 +1,4 @@
-# Swedish-Persian-Kindle-Dictionary
+# Swedish-Persian Kindle Dictionary
 Free Swedish-Persian Kindle Dictionary.  This is a sub-project of: [English-Persian Kindle Custom Dictionary](https://github.com/hossein1376/English-Persian-Kindle-Custom-Dictionary)
 
 # دیکشنری سوئدی به فارسی کیندل
