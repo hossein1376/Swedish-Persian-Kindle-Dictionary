@@ -1,5 +1,5 @@
 # Swedish-Persian Kindle Dictionary
-Free Swedish-Persian Kindle Dictionary.  This is a sub-project of: [English-Persian Kindle Custom Dictionary](https://github.com/hossein1376/English-Persian-Kindle-Custom-Dictionary)
+Free Swedish-Persian Kindle Dictionary. This is a sub-project of: [English-Persian Kindle Custom Dictionary](https://github.com/hossein1376/English-Persian-Kindle-Custom-Dictionary)
 
 # دیکشنری سوئدی به فارسی کیندل
 **بیش از 30 هزار کلمه و اصطلاح**
@@ -27,10 +27,11 @@ Free Swedish-Persian Kindle Dictionary.  This is a sub-project of: [English-Pers
 
 ■ این لغت نامه از قابلیت inflection پشتیبانی میکند. 
 
-
 ■ این لغت نامه از نوشتار راست-به-چپ برای متن فارسی، پشتیبانی میکند.
 
 ## سایر لغت نامه ها
-دیکشنری انگلیسی به فارسی برای کتاب خوان های آمازون کیندل https://github.com/hossein1376/English-Persian-Kindle-Custom-Dictionary
+[English-Persian Kindle Custom Dictionary دیکشنری انگلیسی به فارسی برای کتاب خوان های آمازون کیندل](https://github.com/hossein1376/English-Persian-Kindle-Custom-Dictionary)
 
-دیکشنری روسی به فارسی کیندل https://github.com/hossein1376/Russian-Persian-Kindle-Dictionary
+[Russian-Persian Kindle Dictionary دیکشنری روسی به فارسی کیندل](https://github.com/hossein1376/Russian-Persian-Kindle-Dictionary)
+
+[Spanish-Persian Kindle Dictionary دیکشنری اسپانیایی به فارسی کیندل](https://github.com/hossein1376/Spanish-Persian-Kindle-Dictionary)
