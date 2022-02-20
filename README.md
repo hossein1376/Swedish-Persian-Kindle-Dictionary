@@ -4,16 +4,18 @@ Free Swedish-Persian Kindle Dictionary. This is a sub-project of: [English-Persi
 # دیکشنری سوئدی به فارسی کیندل
 **بیش از 30 هزار کلمه و اصطلاح**
 
+**ویژگی Enhanced Typesetting Support برای نمایش بهتر**
+
 **پشتیبانی از قابلیت inflection یا صرف اسامی و افعال**
 
 **پشتیبانی از نوشتار راست به چپ**
 
+**نسخه 1.1**
+
 **رایگان**
 
-**نسخه 1.0**
-
 ## نحوه استفاده:
-فایل Swedish-Persian Dictionary v1.0.mobi را دانلود کرده و به حافظه داخلی آمازون کیندل خود منتقل کنید.
+فایل Swedish-Persian Dictionary v1.1.mobi را دانلود کرده و به حافظه داخلی آمازون کیندل خود منتقل کنید.
 
 در تنظیمات، بخش زبان و لغت نامه، آن را به عنوان دیکشنری پیش فرض خود انتخاب کنید.
 
@@ -28,6 +30,8 @@ Free Swedish-Persian Kindle Dictionary. This is a sub-project of: [English-Persi
 ■ این لغت نامه از قابلیت inflection پشتیبانی میکند. 
 
 ■ این لغت نامه از نوشتار راست-به-چپ برای متن فارسی، پشتیبانی میکند.
+
+■ در صورت مواجه با مشکلی در نمایش لغت نامه، ورژن 1.0 را امتحان کنید و یا با من در ارتباط باشید.
 
 ## سایر لغت نامه ها
 [English-Persian Kindle Custom Dictionary دیکشنری انگلیسی به فارسی برای کتاب خوان های آمازون کیندل](https://github.com/hossein1376/English-Persian-Kindle-Custom-Dictionary)
